@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Defendant.java": [
+      {
+        "id": "8e5b24a1-2ee0-40ea-a37c-bafd4ef28758",
+        "line": 194,
+        "version": 4486,
+        "index": 4840
+      }
+    ],
+    "DefendantGroup.java": [
+      {
+        "id": "281febd4-24a8-4234-aa3e-0e87a2f06f39",
+        "line": 34,
+        "version": 1447,
+        "index": 812
+      }
+    ]
+  }
+}
